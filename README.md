@@ -1,5 +1,8 @@
 # MNIST Digit Recognition using CNN
 
+# Live Demo
+🔗https://handwrittendigitpredictor-lgbuqxku9pby2ybccqjbuf.streamlit.app/
+
 ## 📌 Project Overview
 
 This project implements a **Convolutional Neural Network (CNN)** using **TensorFlow/Keras** to recognize handwritten digits from the **MNIST** dataset. The model is trained to classify grayscale images of digits (0–9) with high accuracy.
